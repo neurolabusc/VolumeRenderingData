@@ -1,0 +1,3 @@
+## About
+
+Scan of Desert Iguana [Dipsosaurus dorsalis](http://digimorph.org/specimens/Dipsosaurus_dorsalis/). The specimen was scanned by Matthew Colbert. Image processing by Dr. Jessie Maisano.  Each 1024x1024 pixel slice is 0.0468 mm thick, with an interslice spacing of 0.0468 mm and a field of reconstruction of 22 mm. Please visit digimorph for the original scan. The copy here has had haze removed and soft tissue that is distant from the skin and bones has been set to a single intensity to ensure small compressed file size.
