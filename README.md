@@ -6,8 +6,7 @@ This repository provides sample datasets for volume rendering. The voxelwise dat
  - [Prism](Prism/README.md) includes clinical images from the [PRISMDatabase](https://github.com/IbisNeuronav/PRISMDatabase) showing a brain tumor and an arteriovenous malformation (AVM).
  - [iguana](iguana/README.md) is a CT of a Dipsosaurus dorsalis from [DigiMorph](http://digimorph.org/specimens/Dipsosaurus_dorsalis/).
  - [seg3D](seg3D/README.md) provides a clinical MRI and CT scan from an individual with subdural grid electrodes from the [Seg3DData repository](https://github.com/CIBC-Internal/Seg3DData).
- 
-
+ - [stroke](stroke/README.md) provides brain-extracted MRI scans (T1, T2, FLAIR) of an individual with chronic stroke.
 
 ![CT](CT.jpg)
  
@@ -27,6 +26,7 @@ Peter Falkingham provides a YouTube video](https://www.youtube.com/watch?v=dnwfK
 
 ## Other Datasets
 
+ - [Anatomical Tracings of Lesions After Stroke](https://github.com/npnl/ATLAS) provides T1 scans and lesion maps from  hundreds of individuals with stroke.
  - [CrocBase](https://osf.io/6zamj/) provides DICOM images of crocodiles.
  - [DigiMorph](http://digimorph.org/listallapplets.phtml?mt=6) provides living and extinct vertebrates and invertebrates.
  - [MorphoSource](https://www.morphosource.org) has around 13,000 open access biological specimens.

@@ -1,0 +1,4 @@
+## About
+
+ 3T MRI scans (FLAIR, T1, T2) from an individual with chronic left hemisphere stroke. Data from the Center for the Study of Aphasia Recovery (C-STAR). This NIH supported project (P50 DC014664). Provided under the MIT license (see parent folder). Images have bit downsampled to 8-bit precision and brain extracted, yielding small file sizes. T1-weighted images show good contrast between gray and white matter (with fatty myelin appearing bright).  Both the water of the cerebrospinal fluid (CSF) as well as the injury appear bright in the T2-weighted scan. The T2-weighted fluid-attenuated inversion recovery (FLAIR) sequence makes the CSF dark, helping to emphasize the injury and white matter hyperintensities (WMH).
+ 
